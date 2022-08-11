@@ -1,6 +1,6 @@
 # shopping-cart-react
 
-<h2><a href="http://yan-shopping-cart.herokuapp.com/" rel="nofollow">Live Demo</a></h2>
+<h2><a href="https://yanshtein.github.io/shopping-cart-react/" rel="nofollow">Live Demo</a></h2>
 
 > <small>Allow for approximately 20 seconds or so for the page to load.</small>
 
