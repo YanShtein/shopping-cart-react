@@ -2,7 +2,7 @@
 
 <h2><a href="https://yanshtein.github.io/shopping-cart-react/" rel="nofollow">Live Demo</a></h2>
 
-This project deployed using Heroku, uses a simple responsive React shopping cart app, which consists of a few products and a DB.
+This project uses a simple responsive React shopping cart app, which consists of a few products and a DB.
 
 <b>Project functionality:</b>
 - Search input function enables to lookup items by names, categories, and etc.
